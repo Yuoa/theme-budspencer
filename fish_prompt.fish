@@ -713,7 +713,7 @@ function __leftspencer_prompt_git_symbols -d 'Displays the git symbols'
           end
         end
         set_color -b $leftspencer_colors[3] normal
-        echo -n ' '
+        #echo -n ' '
     end
   end
 end
@@ -761,7 +761,7 @@ function __leftspencer_prompt_git_branch -d 'Return the current branch name'
       case short long
 	    set_color $leftspencer_colors[1]
 		echo -n -s (__leftspencer_prompt_git_symbols)
-        echo -n ' '$branch' '(set_color $leftspencer_colors[3])
+        echo -n '  '$branch' '(set_color $leftspencer_colors[3])
       case none
         set_color $leftspencer_current_bindmode_color
         echo -n ''
