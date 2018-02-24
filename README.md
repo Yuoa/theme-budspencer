@@ -13,3 +13,7 @@ This repository is based on ***2018. 02. 21. Latest Version*** of budspencer the
 ## Screenshot
 
 <img src="https://i.imgur.com/SftSMpH.png" alt="Leftspencer Theme Screenshot">
+
+## Tip
+
+If you face fish function error, copy ***__format_time.fish, __parse_current_folder.fish, __parse_git_branch.fish*** to `~/.config/fish/functions/`.
