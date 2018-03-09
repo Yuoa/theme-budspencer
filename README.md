@@ -8,7 +8,7 @@ You can see functions/requirements of this theme on [oh-my-fish/theme-budspencer
 
 ## Based On
 
-This repository is based on ***2018. 02. 21. Latest Version*** of budspencer theme.
+This repository is based on ***2018. 03. 06. Latest Version*** of budspencer theme.
 
 ## Screenshot
 
